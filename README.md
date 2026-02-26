@@ -7,6 +7,6 @@
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a></p>
 <h2>✒️ Recent Posts</h2>
 <ul>
-<li><a target="_blank" href=""></a></li>
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Thygo11&show_icons=true&locale=en" alt="Thygo11" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Thygo11&" alt="Thygo11" /></p>
