@@ -10,5 +10,3 @@
 <li><a target="_blank" href=""></a></li>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Thygo11&show_icons=true&locale=en" alt="Thygo11" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Thygo11&" alt="Thygo11" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Thygo11&show_icons=true&locale=en&layout=compact" alt="Thygo11" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Thygo11" alt="Thygo11" /></a></p>
